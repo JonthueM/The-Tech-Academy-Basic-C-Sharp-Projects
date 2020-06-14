@@ -1,0 +1,7 @@
+C:\cSbarpProjects\Asssignments\step55-AccountProject-Greets\bin\Debug\step55-AccountProject-Greets.exe.config
+C:\cSbarpProjects\Asssignments\step55-AccountProject-Greets\bin\Debug\step55-AccountProject-Greets.exe
+C:\cSbarpProjects\Asssignments\step55-AccountProject-Greets\bin\Debug\step55-AccountProject-Greets.pdb
+C:\cSbarpProjects\Asssignments\step55-AccountProject-Greets\obj\Debug\step55-AccountProject-Greets.csprojAssemblyReference.cache
+C:\cSbarpProjects\Asssignments\step55-AccountProject-Greets\obj\Debug\step55-AccountProject-Greets.csproj.CoreCompileInputs.cache
+C:\cSbarpProjects\Asssignments\step55-AccountProject-Greets\obj\Debug\step55-AccountProject-Greets.exe
+C:\cSbarpProjects\Asssignments\step55-AccountProject-Greets\obj\Debug\step55-AccountProject-Greets.pdb
