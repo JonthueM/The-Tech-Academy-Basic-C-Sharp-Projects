@@ -1,0 +1,7 @@
+C:\cSharpProjects\1 - Assignments\step71-TheTechAcademy-DailyReport\bin\Debug\step71-TheTechAcademy-DailyReport.exe.config
+C:\cSharpProjects\1 - Assignments\step71-TheTechAcademy-DailyReport\bin\Debug\step71-TheTechAcademy-DailyReport.exe
+C:\cSharpProjects\1 - Assignments\step71-TheTechAcademy-DailyReport\bin\Debug\step71-TheTechAcademy-DailyReport.pdb
+C:\cSharpProjects\1 - Assignments\step71-TheTechAcademy-DailyReport\obj\Debug\step71-TheTechAcademy-DailyReport.csprojAssemblyReference.cache
+C:\cSharpProjects\1 - Assignments\step71-TheTechAcademy-DailyReport\obj\Debug\step71-TheTechAcademy-DailyReport.csproj.CoreCompileInputs.cache
+C:\cSharpProjects\1 - Assignments\step71-TheTechAcademy-DailyReport\obj\Debug\step71-TheTechAcademy-DailyReport.exe
+C:\cSharpProjects\1 - Assignments\step71-TheTechAcademy-DailyReport\obj\Debug\step71-TheTechAcademy-DailyReport.pdb
