@@ -1,0 +1,7 @@
+C:\cSharpProjects\1 - Assignments\step88-Math-MultiplyToDivision\bin\Debug\step88-Math-MultiplyToDivision.exe.config
+C:\cSharpProjects\1 - Assignments\step88-Math-MultiplyToDivision\bin\Debug\step88-Math-MultiplyToDivision.exe
+C:\cSharpProjects\1 - Assignments\step88-Math-MultiplyToDivision\bin\Debug\step88-Math-MultiplyToDivision.pdb
+C:\cSharpProjects\1 - Assignments\step88-Math-MultiplyToDivision\obj\Debug\step88-Math-MultiplyToDivision.csprojAssemblyReference.cache
+C:\cSharpProjects\1 - Assignments\step88-Math-MultiplyToDivision\obj\Debug\step88-Math-MultiplyToDivision.csproj.CoreCompileInputs.cache
+C:\cSharpProjects\1 - Assignments\step88-Math-MultiplyToDivision\obj\Debug\step88-Math-MultiplyToDivision.exe
+C:\cSharpProjects\1 - Assignments\step88-Math-MultiplyToDivision\obj\Debug\step88-Math-MultiplyToDivision.pdb
