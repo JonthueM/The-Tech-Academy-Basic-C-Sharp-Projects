@@ -1,0 +1,7 @@
+C:\Users\conne\source\repos\step88-Math-IncomeComparisonProgram\bin\Debug\step88-Math-IncomeComparisonProgram.exe.config
+C:\Users\conne\source\repos\step88-Math-IncomeComparisonProgram\bin\Debug\step88-Math-IncomeComparisonProgram.exe
+C:\Users\conne\source\repos\step88-Math-IncomeComparisonProgram\bin\Debug\step88-Math-IncomeComparisonProgram.pdb
+C:\Users\conne\source\repos\step88-Math-IncomeComparisonProgram\obj\Debug\step88-Math-IncomeComparisonProgram.csprojAssemblyReference.cache
+C:\Users\conne\source\repos\step88-Math-IncomeComparisonProgram\obj\Debug\step88-Math-IncomeComparisonProgram.csproj.CoreCompileInputs.cache
+C:\Users\conne\source\repos\step88-Math-IncomeComparisonProgram\obj\Debug\step88-Math-IncomeComparisonProgram.exe
+C:\Users\conne\source\repos\step88-Math-IncomeComparisonProgram\obj\Debug\step88-Math-IncomeComparisonProgram.pdb
