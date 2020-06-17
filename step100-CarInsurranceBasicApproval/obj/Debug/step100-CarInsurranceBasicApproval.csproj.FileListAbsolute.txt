@@ -1,0 +1,7 @@
+C:\cSharpProjects\2 - CodeAlong\step100-CarInsurranceBasicApproval\bin\Debug\step100-CarInsurranceBasicApproval.exe.config
+C:\cSharpProjects\2 - CodeAlong\step100-CarInsurranceBasicApproval\bin\Debug\step100-CarInsurranceBasicApproval.exe
+C:\cSharpProjects\2 - CodeAlong\step100-CarInsurranceBasicApproval\bin\Debug\step100-CarInsurranceBasicApproval.pdb
+C:\cSharpProjects\2 - CodeAlong\step100-CarInsurranceBasicApproval\obj\Debug\step100-CarInsurranceBasicApproval.csprojAssemblyReference.cache
+C:\cSharpProjects\2 - CodeAlong\step100-CarInsurranceBasicApproval\obj\Debug\step100-CarInsurranceBasicApproval.csproj.CoreCompileInputs.cache
+C:\cSharpProjects\2 - CodeAlong\step100-CarInsurranceBasicApproval\obj\Debug\step100-CarInsurranceBasicApproval.exe
+C:\cSharpProjects\2 - CodeAlong\step100-CarInsurranceBasicApproval\obj\Debug\step100-CarInsurranceBasicApproval.pdb
