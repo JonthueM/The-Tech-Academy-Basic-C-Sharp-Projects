@@ -1,0 +1,7 @@
+C:\cSharpProjects\1 - Assignments\step117-ShippingQuote\bin\Debug\step117-ShippingQuote.exe.config
+C:\cSharpProjects\1 - Assignments\step117-ShippingQuote\bin\Debug\step117-ShippingQuote.exe
+C:\cSharpProjects\1 - Assignments\step117-ShippingQuote\bin\Debug\step117-ShippingQuote.pdb
+C:\cSharpProjects\1 - Assignments\step117-ShippingQuote\obj\Debug\step117-ShippingQuote.csprojAssemblyReference.cache
+C:\cSharpProjects\1 - Assignments\step117-ShippingQuote\obj\Debug\step117-ShippingQuote.csproj.CoreCompileInputs.cache
+C:\cSharpProjects\1 - Assignments\step117-ShippingQuote\obj\Debug\step117-ShippingQuote.exe
+C:\cSharpProjects\1 - Assignments\step117-ShippingQuote\obj\Debug\step117-ShippingQuote.pdb
