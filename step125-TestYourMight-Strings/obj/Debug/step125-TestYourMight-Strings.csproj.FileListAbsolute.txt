@@ -1,0 +1,7 @@
+C:\Users\conne\source\repos\step125-TestYourMight-Strings\bin\Debug\step125-TestYourMight-Strings.exe.config
+C:\Users\conne\source\repos\step125-TestYourMight-Strings\bin\Debug\step125-TestYourMight-Strings.exe
+C:\Users\conne\source\repos\step125-TestYourMight-Strings\bin\Debug\step125-TestYourMight-Strings.pdb
+C:\Users\conne\source\repos\step125-TestYourMight-Strings\obj\Debug\step125-TestYourMight-Strings.csprojAssemblyReference.cache
+C:\Users\conne\source\repos\step125-TestYourMight-Strings\obj\Debug\step125-TestYourMight-Strings.csproj.CoreCompileInputs.cache
+C:\Users\conne\source\repos\step125-TestYourMight-Strings\obj\Debug\step125-TestYourMight-Strings.exe
+C:\Users\conne\source\repos\step125-TestYourMight-Strings\obj\Debug\step125-TestYourMight-Strings.pdb
