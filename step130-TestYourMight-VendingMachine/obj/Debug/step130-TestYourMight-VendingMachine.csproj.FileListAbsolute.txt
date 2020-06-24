@@ -1,0 +1,7 @@
+C:\cSharpProjects\2 - CodeAlong\step130-TestYourMight-VendingMachine\bin\Debug\step130-TestYourMight-VendingMachine.exe.config
+C:\cSharpProjects\2 - CodeAlong\step130-TestYourMight-VendingMachine\bin\Debug\step130-TestYourMight-VendingMachine.exe
+C:\cSharpProjects\2 - CodeAlong\step130-TestYourMight-VendingMachine\bin\Debug\step130-TestYourMight-VendingMachine.pdb
+C:\cSharpProjects\2 - CodeAlong\step130-TestYourMight-VendingMachine\obj\Debug\step130-TestYourMight-VendingMachine.csprojAssemblyReference.cache
+C:\cSharpProjects\2 - CodeAlong\step130-TestYourMight-VendingMachine\obj\Debug\step130-TestYourMight-VendingMachine.csproj.CoreCompileInputs.cache
+C:\cSharpProjects\2 - CodeAlong\step130-TestYourMight-VendingMachine\obj\Debug\step130-TestYourMight-VendingMachine.exe
+C:\cSharpProjects\2 - CodeAlong\step130-TestYourMight-VendingMachine\obj\Debug\step130-TestYourMight-VendingMachine.pdb
