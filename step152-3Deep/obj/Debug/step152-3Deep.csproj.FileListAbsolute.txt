@@ -1,0 +1,7 @@
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step152-3Deep\bin\Debug\step152-3Deep.exe.config
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step152-3Deep\bin\Debug\step152-3Deep.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step152-3Deep\bin\Debug\step152-3Deep.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step152-3Deep\obj\Debug\step152-3Deep.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step152-3Deep\obj\Debug\step152-3Deep.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step152-3Deep\obj\Debug\step152-3Deep.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step152-3Deep\obj\Debug\step152-3Deep.pdb
