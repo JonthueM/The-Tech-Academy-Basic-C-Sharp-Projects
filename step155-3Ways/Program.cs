@@ -24,7 +24,7 @@ namespace step155_3Ways
             int returnValue1 = intOperations.manyToOne(one);
             decimal returnValue2 = intOperations.manyToOne(two);
             string pushValue = intOperations.manyToOne(three,out takeThis);
-            Console.WriteLine($"\nPath One: Your Number {one} x 10 = {returnValue1}. \nPath Two: Your Decimal Value {two} + 10050 = {returnValue2}. \n Path Three: Your number {three} / 5 = {takeThis}");
+            Console.WriteLine($"\nPath One: Your Number {one} x 10 = {returnValue1}. \nPath Two: Your Decimal Value {two} + 10050 = {returnValue2}. \nPath Three: Your number {three} / 5 = {takeThis}");
             Console.ReadLine();
         }
     }

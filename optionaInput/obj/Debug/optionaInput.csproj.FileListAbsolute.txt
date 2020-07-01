@@ -1,0 +1,7 @@
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionaInput\bin\Debug\optionaInput.exe.config
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionaInput\bin\Debug\optionaInput.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionaInput\bin\Debug\optionaInput.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionaInput\obj\Debug\optionaInput.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionaInput\obj\Debug\optionaInput.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionaInput\obj\Debug\optionaInput.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\optionaInput\obj\Debug\optionaInput.pdb

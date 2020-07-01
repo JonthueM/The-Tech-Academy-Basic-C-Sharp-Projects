@@ -14,6 +14,7 @@ namespace step155_3Ways
         }
         public static decimal manyToOne(decimal secondNumber) 
         {
+
             return secondNumber + 10050;
         }
         public static string manyToOne(string thirdNumber, out int output) 
