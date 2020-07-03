@@ -12,7 +12,6 @@ namespace step169_voidFactor
         {
             //Load the Class
             voidClass voidFactor = new voidClass();
-            voidClass void2 = new voidClass();
 
 
             //Prompt & Store
