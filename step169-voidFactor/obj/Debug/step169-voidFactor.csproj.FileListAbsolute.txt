@@ -1,0 +1,7 @@
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step169-voidFactor\bin\Debug\step169-voidFactor.exe.config
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step169-voidFactor\bin\Debug\step169-voidFactor.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step169-voidFactor\bin\Debug\step169-voidFactor.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step169-voidFactor\obj\Debug\step169-voidFactor.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step169-voidFactor\obj\Debug\step169-voidFactor.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step169-voidFactor\obj\Debug\step169-voidFactor.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step169-voidFactor\obj\Debug\step169-voidFactor.pdb
