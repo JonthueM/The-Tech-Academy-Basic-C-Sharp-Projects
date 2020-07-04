@@ -1,0 +1,7 @@
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step182-IQuit\bin\Debug\step182-IQuit.exe.config
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step182-IQuit\bin\Debug\step182-IQuit.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step182-IQuit\bin\Debug\step182-IQuit.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step182-IQuit\obj\Debug\step182-IQuit.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step182-IQuit\obj\Debug\step182-IQuit.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step182-IQuit\obj\Debug\step182-IQuit.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step182-IQuit\obj\Debug\step182-IQuit.pdb
