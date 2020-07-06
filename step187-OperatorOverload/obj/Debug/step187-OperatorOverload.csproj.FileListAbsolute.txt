@@ -1,0 +1,7 @@
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step187-OperatorOverload\bin\Debug\step187-OperatorOverload.exe.config
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step187-OperatorOverload\bin\Debug\step187-OperatorOverload.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step187-OperatorOverload\bin\Debug\step187-OperatorOverload.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step187-OperatorOverload\obj\Debug\step187-OperatorOverload.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step187-OperatorOverload\obj\Debug\step187-OperatorOverload.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step187-OperatorOverload\obj\Debug\step187-OperatorOverload.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step187-OperatorOverload\obj\Debug\step187-OperatorOverload.pdb
