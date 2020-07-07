@@ -16,7 +16,7 @@ namespace step182_IQuit
         }
         public void Quit()
         {
-            string iQuit = "has Quit";
+            string iQuit = $"{firstName} {lastName} has Quit";
             Console.WriteLine(iQuit);
         }
     }

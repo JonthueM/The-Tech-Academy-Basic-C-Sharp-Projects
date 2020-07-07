@@ -10,8 +10,9 @@ namespace step182_IQuit
     {
         static void Main(string[] args)
         {
-            Employee iQuite = new Employee() {firstName = "Jonthue", lastName = "Michel" };
-             iQuite.SayName(); iQuite.Quit();
+            IQuittable iQuite = new Employee() { firstName = "Jonthue", lastName = "Michel" };
+            
+              iQuite.Quit();
             Console.ReadLine();
 
         }
