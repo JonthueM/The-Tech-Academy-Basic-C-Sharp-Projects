@@ -1,0 +1,7 @@
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step190-GenericEmployee\bin\Debug\step190-GenericEmployee.exe.config
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step190-GenericEmployee\bin\Debug\step190-GenericEmployee.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step190-GenericEmployee\bin\Debug\step190-GenericEmployee.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step190-GenericEmployee\obj\Debug\step190-GenericEmployee.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step190-GenericEmployee\obj\Debug\step190-GenericEmployee.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step190-GenericEmployee\obj\Debug\step190-GenericEmployee.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step190-GenericEmployee\obj\Debug\step190-GenericEmployee.pdb
