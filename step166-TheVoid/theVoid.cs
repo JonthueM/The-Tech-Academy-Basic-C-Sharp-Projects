@@ -9,6 +9,6 @@ namespace step166_TheVoid
     class theVoid
     {
          public static void voidOp(int numOne, int numTwo) 
-        { int sum = numOne * numTwo; Console.WriteLine(sum); }
+        { int sum = numOne * numTwo; Console.WriteLine($" {numOne} x {numTwo} = {sum} "); }
     }
 }

@@ -20,7 +20,6 @@ namespace step166_TheVoid
             int numberTwo = Convert.ToInt32(Console.ReadLine());
 
             //Send, Receive & Print
-            Console.WriteLine($"You typed {numberOne} x {numberTwo} = ");
             theVoid.voidOp(numberOne, numberTwo);
 
 
