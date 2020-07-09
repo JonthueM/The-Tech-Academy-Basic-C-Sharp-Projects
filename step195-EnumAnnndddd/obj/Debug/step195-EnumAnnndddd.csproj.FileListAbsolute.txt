@@ -1,0 +1,7 @@
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step195-EnumAnnndddd\bin\Debug\step195-EnumAnnndddd.exe.config
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step195-EnumAnnndddd\bin\Debug\step195-EnumAnnndddd.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step195-EnumAnnndddd\bin\Debug\step195-EnumAnnndddd.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step195-EnumAnnndddd\obj\Debug\step195-EnumAnnndddd.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step195-EnumAnnndddd\obj\Debug\step195-EnumAnnndddd.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step195-EnumAnnndddd\obj\Debug\step195-EnumAnnndddd.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step195-EnumAnnndddd\obj\Debug\step195-EnumAnnndddd.pdb
