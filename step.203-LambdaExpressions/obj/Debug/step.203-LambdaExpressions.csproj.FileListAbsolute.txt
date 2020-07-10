@@ -1,0 +1,7 @@
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step.203-LambdaExpressions\bin\Debug\step.203-LambdaExpressions.exe.config
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step.203-LambdaExpressions\bin\Debug\step.203-LambdaExpressions.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step.203-LambdaExpressions\bin\Debug\step.203-LambdaExpressions.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step.203-LambdaExpressions\obj\Debug\step.203-LambdaExpressions.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step.203-LambdaExpressions\obj\Debug\step.203-LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step.203-LambdaExpressions\obj\Debug\step.203-LambdaExpressions.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step.203-LambdaExpressions\obj\Debug\step.203-LambdaExpressions.pdb
