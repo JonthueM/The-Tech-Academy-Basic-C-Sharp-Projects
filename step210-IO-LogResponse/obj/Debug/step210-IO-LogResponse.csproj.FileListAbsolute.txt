@@ -1,0 +1,7 @@
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step210-IO-LogResponse\bin\Debug\step210-IO-LogResponse.exe.config
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step210-IO-LogResponse\bin\Debug\step210-IO-LogResponse.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step210-IO-LogResponse\bin\Debug\step210-IO-LogResponse.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step210-IO-LogResponse\obj\Debug\step210-IO-LogResponse.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step210-IO-LogResponse\obj\Debug\step210-IO-LogResponse.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step210-IO-LogResponse\obj\Debug\step210-IO-LogResponse.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step210-IO-LogResponse\obj\Debug\step210-IO-LogResponse.pdb
