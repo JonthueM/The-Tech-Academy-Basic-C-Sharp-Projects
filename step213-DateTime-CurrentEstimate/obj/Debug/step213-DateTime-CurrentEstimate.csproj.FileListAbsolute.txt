@@ -1,0 +1,7 @@
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step213-DateTime-CurrentEstimate\bin\Debug\step213-DateTime-CurrentEstimate.exe.config
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step213-DateTime-CurrentEstimate\bin\Debug\step213-DateTime-CurrentEstimate.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step213-DateTime-CurrentEstimate\bin\Debug\step213-DateTime-CurrentEstimate.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step213-DateTime-CurrentEstimate\obj\Debug\step213-DateTime-CurrentEstimate.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step213-DateTime-CurrentEstimate\obj\Debug\step213-DateTime-CurrentEstimate.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step213-DateTime-CurrentEstimate\obj\Debug\step213-DateTime-CurrentEstimate.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step213-DateTime-CurrentEstimate\obj\Debug\step213-DateTime-CurrentEstimate.pdb
