@@ -27,14 +27,6 @@ namespace step195_EnumAnnndddd
             {
                 Console.WriteLine("Please enter an actual day of the week.");
             }
-                
-
-                
-             
-             Console.ReadLine();
-                
-              Console.WriteLine("Please enter an actual day of the week. Please!");
-                
             
             Console.ReadLine();
 

@@ -13,10 +13,16 @@ namespace step210_IO_LogResponse
         {
             //Path
             string path = @"C:\Users\conne\Documents\log-210.txt";
+
+            //Insert & Store
             Console.WriteLine("Hello There! Please insert a random number below");
             string randomNumber = Console.ReadLine();
+
+            //Write to Path 
             File.WriteAllText(path, randomNumber);
             Console.WriteLine("Retreiving from Written File");
+
+            //Read From Path
             string readText = File.ReadAllText(path);
             Console.WriteLine(readText);
 

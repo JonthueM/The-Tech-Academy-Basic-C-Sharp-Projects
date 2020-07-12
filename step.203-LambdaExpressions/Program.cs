@@ -89,7 +89,7 @@ namespace step._203_LambdaExpressions
             };
 
             //Creates & Transfer using Lambda Expressions
-            List<Person> filterID = tenEmployee3.Where(x => x.ID < 5).ToList();
+            List<Person> filterID = tenEmployee3.Where(x => x.ID < g5).ToList();
             //Prints the results the Console
             Console.WriteLine(columHeader);
             foreach (Person person4 in filterID)
