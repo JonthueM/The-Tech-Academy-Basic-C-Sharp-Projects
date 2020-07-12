@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8ACE7ADB-BAC4-4389-84FC-DA3711761F5B}</ProjectGuid>
+    <ProjectGuid>{76496AC2-7367-4219-B38D-658D0BFE232C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_2020_step221_VarVarConstruct</RootNamespace>
-    <AssemblyName>2020-step221-VarVarConstruct</AssemblyName>
+    <RootNamespace>_2020_step225_CatchThis</RootNamespace>
+    <AssemblyName>2020-step225-CatchThis</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="chainingConstructors.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
