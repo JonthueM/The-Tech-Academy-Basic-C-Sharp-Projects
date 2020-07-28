@@ -1,4 +1,5 @@
-﻿using System;
+﻿using _2020_step221_VarVarConstruct;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.CompilerServices;
@@ -19,6 +20,11 @@ namespace _2020_step230_VarVarConstruct
             const int x = 10;
 
             Console.WriteLine($"{y} {x}");
+
+            Employee name = new Employee("Jonthue");
+            Employee nameID = new Employee("Runner", 0071);
+            Employee nameIDdept = new Employee("WAREON", 9071, "Defense");
+
 
             
 
