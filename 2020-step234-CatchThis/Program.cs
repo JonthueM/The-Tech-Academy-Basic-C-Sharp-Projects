@@ -10,15 +10,16 @@ namespace _2020_step234_CatchThis
     {
         static void Main(string[] args)
         {
+
             try
             {
                 Console.WriteLine("How Old Are You This Year?");
                 int age;
                 age = Convert.ToInt32(Console.ReadLine());
 
-                if (age == 0)
+                if (age === 0)
                 {
-                    throw new ArgumentException("Please No Zero's");
+                    throw new Exception("Please No Zero's");
                 }
                 if (age < 0)
                 {
@@ -28,6 +29,18 @@ namespace _2020_step234_CatchThis
                 int birthYear = age - 2020;
                 Console.WriteLine(birthYear);
             }
+            catch(Exception)
+            {
+                Console.WriteLine("Please No Zero's");
+            }
+            
+            
+            
+
+
+
+
+
 
 
 

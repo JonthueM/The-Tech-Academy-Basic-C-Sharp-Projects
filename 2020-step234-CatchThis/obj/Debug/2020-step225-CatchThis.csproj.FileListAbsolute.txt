@@ -5,3 +5,10 @@ C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects
 C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step225-CatchThis\obj\Debug\2020-step225-CatchThis.csproj.CoreCompileInputs.cache
 C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step225-CatchThis\obj\Debug\2020-step225-CatchThis.exe
 C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step225-CatchThis\obj\Debug\2020-step225-CatchThis.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step234-CatchThis\bin\Debug\2020-step225-CatchThis.exe.config
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step234-CatchThis\bin\Debug\2020-step225-CatchThis.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step234-CatchThis\bin\Debug\2020-step225-CatchThis.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step234-CatchThis\obj\Debug\2020-step225-CatchThis.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step234-CatchThis\obj\Debug\2020-step225-CatchThis.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step234-CatchThis\obj\Debug\2020-step225-CatchThis.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step234-CatchThis\obj\Debug\2020-step225-CatchThis.pdb
