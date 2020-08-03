@@ -17,7 +17,7 @@ namespace _2020_step234_CatchThis
                 int age;
                 age = Convert.ToInt32(Console.ReadLine());
 
-                if (age === 0)
+                if (age == 0)
                 {
                     throw new Exception("Please No Zero's");
                 }

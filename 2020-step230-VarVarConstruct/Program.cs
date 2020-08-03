@@ -26,6 +26,7 @@ namespace _2020_step230_VarVarConstruct
             Employee nameIDdept = new Employee("WAREON", 9071, "Defense");
 
 
+            Console.ReadLine();
             
 
             

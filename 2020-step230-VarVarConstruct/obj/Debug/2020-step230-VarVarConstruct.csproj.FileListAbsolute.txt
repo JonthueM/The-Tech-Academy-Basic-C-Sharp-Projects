@@ -1,0 +1,7 @@
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step230-VarVarConstruct\bin\Debug\2020-step221-VarVarConstruct.exe.config
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step230-VarVarConstruct\bin\Debug\2020-step221-VarVarConstruct.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step230-VarVarConstruct\bin\Debug\2020-step221-VarVarConstruct.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step230-VarVarConstruct\obj\Debug\2020-step230-VarVarConstruct.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step230-VarVarConstruct\obj\Debug\2020-step230-VarVarConstruct.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step230-VarVarConstruct\obj\Debug\2020-step221-VarVarConstruct.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\2020-step230-VarVarConstruct\obj\Debug\2020-step221-VarVarConstruct.pdb
