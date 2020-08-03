@@ -29,9 +29,18 @@ namespace _2020_step234_CatchThis
                 int birthYear = age - 2020;
                 Console.WriteLine(birthYear);
             }
-            catch(Exception)
+            catch (ArgumentOutOfRangeException)
+            {
+                Console.WriteLine("Why So Negative");
+            }
+            catch (Exception)
             {
                 Console.WriteLine("Please No Zero's");
+            }
+            
+            finally
+            {
+                Console.WriteLine("Not Valid");
             }
             
             
