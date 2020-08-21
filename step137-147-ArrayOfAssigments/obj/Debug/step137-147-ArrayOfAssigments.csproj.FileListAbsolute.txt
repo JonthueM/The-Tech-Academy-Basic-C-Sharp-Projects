@@ -5,3 +5,10 @@ C:\cSharpProjects\1 - Assignments\step137-147-ArrayOfAssigments\obj\Debug\step13
 C:\cSharpProjects\1 - Assignments\step137-147-ArrayOfAssigments\obj\Debug\step137-147-ArrayOfAssigments.csproj.CoreCompileInputs.cache
 C:\cSharpProjects\1 - Assignments\step137-147-ArrayOfAssigments\obj\Debug\step137-147-ArrayOfAssigments.exe
 C:\cSharpProjects\1 - Assignments\step137-147-ArrayOfAssigments\obj\Debug\step137-147-ArrayOfAssigments.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step137-147-ArrayOfAssigments\bin\Debug\step137-147-ArrayOfAssigments.exe.config
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step137-147-ArrayOfAssigments\bin\Debug\step137-147-ArrayOfAssigments.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step137-147-ArrayOfAssigments\bin\Debug\step137-147-ArrayOfAssigments.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step137-147-ArrayOfAssigments\obj\Debug\step137-147-ArrayOfAssigments.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step137-147-ArrayOfAssigments\obj\Debug\step137-147-ArrayOfAssigments.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step137-147-ArrayOfAssigments\obj\Debug\step137-147-ArrayOfAssigments.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step137-147-ArrayOfAssigments\obj\Debug\step137-147-ArrayOfAssigments.pdb

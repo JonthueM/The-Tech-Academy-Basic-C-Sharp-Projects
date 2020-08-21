@@ -5,3 +5,10 @@ C:\cSharpProjects\2 - CodeAlong\step100-CarInsurranceBasicApproval\obj\Debug\ste
 C:\cSharpProjects\2 - CodeAlong\step100-CarInsurranceBasicApproval\obj\Debug\step100-CarInsurranceBasicApproval.csproj.CoreCompileInputs.cache
 C:\cSharpProjects\2 - CodeAlong\step100-CarInsurranceBasicApproval\obj\Debug\step100-CarInsurranceBasicApproval.exe
 C:\cSharpProjects\2 - CodeAlong\step100-CarInsurranceBasicApproval\obj\Debug\step100-CarInsurranceBasicApproval.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step100-CarInsurranceBasicApproval\bin\Debug\step100-CarInsurranceBasicApproval.exe.config
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step100-CarInsurranceBasicApproval\bin\Debug\step100-CarInsurranceBasicApproval.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step100-CarInsurranceBasicApproval\bin\Debug\step100-CarInsurranceBasicApproval.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step100-CarInsurranceBasicApproval\obj\Debug\step100-CarInsurranceBasicApproval.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step100-CarInsurranceBasicApproval\obj\Debug\step100-CarInsurranceBasicApproval.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step100-CarInsurranceBasicApproval\obj\Debug\step100-CarInsurranceBasicApproval.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step100-CarInsurranceBasicApproval\obj\Debug\step100-CarInsurranceBasicApproval.pdb

@@ -26,7 +26,7 @@ namespace _2020_step234_CatchThis
                     throw new ArgumentOutOfRangeException("Why So Negative");
                 }
 
-                int birthYear = age - 2020;
+                int birthYear = 2020 - age;
                 Console.WriteLine(birthYear);
             }
             catch (ArgumentOutOfRangeException)

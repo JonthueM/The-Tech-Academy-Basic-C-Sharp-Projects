@@ -5,3 +5,10 @@ C:\cSharpProjects\2 - CodeAlong\step130-TestYourMight-VendingMachine\obj\Debug\s
 C:\cSharpProjects\2 - CodeAlong\step130-TestYourMight-VendingMachine\obj\Debug\step130-TestYourMight-VendingMachine.csproj.CoreCompileInputs.cache
 C:\cSharpProjects\2 - CodeAlong\step130-TestYourMight-VendingMachine\obj\Debug\step130-TestYourMight-VendingMachine.exe
 C:\cSharpProjects\2 - CodeAlong\step130-TestYourMight-VendingMachine\obj\Debug\step130-TestYourMight-VendingMachine.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step130-TestYourMight-VendingMachine\bin\Debug\step130-TestYourMight-VendingMachine.exe.config
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step130-TestYourMight-VendingMachine\bin\Debug\step130-TestYourMight-VendingMachine.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step130-TestYourMight-VendingMachine\bin\Debug\step130-TestYourMight-VendingMachine.pdb
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step130-TestYourMight-VendingMachine\obj\Debug\step130-TestYourMight-VendingMachine.csprojAssemblyReference.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step130-TestYourMight-VendingMachine\obj\Debug\step130-TestYourMight-VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step130-TestYourMight-VendingMachine\obj\Debug\step130-TestYourMight-VendingMachine.exe
+C:\Users\conne\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\step130-TestYourMight-VendingMachine\obj\Debug\step130-TestYourMight-VendingMachine.pdb
