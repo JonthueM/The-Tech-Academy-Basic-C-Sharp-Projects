@@ -7,4 +7,4 @@
 **Description:** Learn and demostrate the use of C Sharp.
 
 
-**NOTE:** Most of the files are named according to the lesson number to make it easier for teachers to 4 Below is an TOC of assignments & challenges. 
+**NOTE:** Most of the files are named according to the lesson number to make it easier for teachers.
