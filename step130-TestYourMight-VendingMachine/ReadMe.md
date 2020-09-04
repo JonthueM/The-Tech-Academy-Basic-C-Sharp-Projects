@@ -24,6 +24,8 @@ I created a list of values using lists and array which is follow by 3 prompts as
 Once the selection is made if valid will vend to the user the requested items
 ![](vendingMachine.gif)
 
+And of course I added a response if the selection were not valid!
+
 ```csharp
 //Vending Machine Logic & Output
     Console.WriteLine("\n \nProcessing Your Selection Now!");
